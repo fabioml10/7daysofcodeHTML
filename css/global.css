@@ -1,8 +1,9 @@
-@import url("./colors.css");
+@import url("./variables.css");
 
 * {
   font-family: 'Inter', sans-serif;
-  font-size: 1rem;
+  font-size: var(--font-size-5);
+  font-weight: var(--font-medium);
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -29,4 +30,12 @@ body {
 .button.filled {
   color: var(--base-white);
   background-color: var(--primary);
+}
+
+.full-width {
+  width: 100%;
+}
+
+.text-center {
+  text-align: center;
 }

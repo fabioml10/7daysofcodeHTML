@@ -1,0 +1,30 @@
+:root {
+  /* Colors */
+  --primary: #8E2424;
+  --base-white: #FFFFFF;
+  
+  --gray-500: #667085;
+  --gray-900: #101828;
+
+  /* Font Sizes */
+  --font-size-5: 1rem; /* 16px */
+  --font-size-6: 1.25rem; /* 20px */
+  --font-size-9: 3rem; /* 48px */
+
+  /* Font Weigth */
+  --font-regular: 400;
+  --font-medium: 500;
+  --font-semi-bold: 600;
+
+  /* Vertical Spaces */
+  --v-space-1: 0.75rem; /* 12px */
+  --v-space-3: 2rem; /* 32px */
+  --v-space-9: 20rem; /* 320px */
+
+  /* Horizontal Spaces */
+  --h-space-4: 1.5rem; /* 24px */
+  --h-space-5: 2.25rem; /* 36px */
+  --h-space-8: 6rem; /* 96px */
+  --h-space-9: 7rem; /* 112px */
+}
+

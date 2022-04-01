@@ -1,0 +1,24 @@
+.banner {
+  padding: var(--h-space-8) var(--v-space-9) var(--h-space-9);
+}
+
+.banner-title {
+  display: block;
+  color: var(--primary);
+  font-weight: var(--font-semi-bold);
+  margin-bottom: var(--h-space-4);
+}
+
+.banner-subtitle {
+  display: block;
+  color: var(--gray-900);
+  font-size: var(--font-size-9);
+  font-weight: var(--font-semi-bold);
+  margin-bottom: var(--h-space-5);
+}
+
+.banner-text {
+  color: var(--gray-500);
+  font-size: var(--font-size-6);
+  font-weight: var(--font-regular);
+}
